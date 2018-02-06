@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+header{
+    width: 98%;
+    height: 100px;
+    position: fixed;
+    top:10px;
+    left: 9px;
+    padding-right: 6px;
+    background: #9B4332;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-family: "Times New Roman", Times, serif;
+    font-style: oblique;
+    font-size: 70px;
+    text-align: center;
+}
+
+headerr input{
+    width: 20%;
+    height: 40px;
+    position: relative;
+    top: 167px;
+    left: 505px;
+    background: aliceblue;
+    border-radius: 5px;
+    text-indent: 10px;
+    border:0px;
+    bottom:10px;
+    margin:10px;
+
+}
+
+ headerr button{
+     width: 9%;
+     height: 36px;
+     background-color:#07a2a2;
+     border-radius: 3px;
+     left:550px;
+     border:0px;
+     cursor:pointer;
+     margin-left:590px;
+     margin-top:185px;
+     -webkit-text-fill-color: aliceblue;
+
+}
+
+ headerr textarea{
+     width: 40%;
+     height: 40px;
+     position: relative;
+     top: 167px;
+     left: 387px;
+     background: aliceblue;
+     border-radius: 5px;
+     text-indent: 10px;
+     border:0px;
+     bottom:10px;
+     margin:10px;
+     overflow: hidden;
+     box-sizing: border-box;
+ }
